@@ -1,0 +1,1 @@
+This repository contains information about "the Shell" which is a program that takes commands from the keyboard and gives them to the operating system to perform. In this repo, I will be navigating the program bash. There will be various scripts and their descriptions within each of the directories' read me files.
